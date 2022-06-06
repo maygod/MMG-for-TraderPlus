@@ -1,0 +1,31 @@
+{
+            "Id": 5,
+            "Name": "SurvivorM_Jose",
+            "GivenName": "Kevin",
+            "Role": "Weapon Trader",
+            "Position": [
+                11617.43,
+                58.04,
+                14656.20
+            ],
+            "Orientation": [
+                145.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "AKM",
+                "SVD",
+                "M4A1",
+                "M4_RISHndgrd",
+                "Universallight",
+                "M4_OEBttstck",
+                "mmg_tactical_gloves_dark_woodland",
+                "MMG_striker_helmet_dark_woodland",
+                "MMG_operatorshirt_dark_woodland",
+                "mmg_tactical_pants_dark_woodland",
+                "MMG_boots_dark_woodland",
+                "MMG_facemask_dark_woodland",
+                "MMG_camelback_dark_woodland"
+            ]
+        },
